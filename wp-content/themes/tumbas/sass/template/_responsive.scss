@@ -1,0 +1,34 @@
+@media (max-width: $screen-phone){
+	.cart_item{
+		.product-quantity{
+			display: inline-block !important;
+		}
+	}
+	.coupon{
+		input.button{
+			font-size: 10px !important;
+		}
+	}
+	.wc-proceed-to-checkout{
+		a{
+			font-size: 15px !important;
+		}
+	}
+}
+//tabbest(768px)
+@media (max-width: $screen-sm){
+    
+}
+
+//desktop(992px)
+@media (max-width: $screen-desktop){
+   
+}
+
+@media (min-width: $screen-md){
+   
+}
+
+@media (max-width:  $screen-sm-max){
+    
+}

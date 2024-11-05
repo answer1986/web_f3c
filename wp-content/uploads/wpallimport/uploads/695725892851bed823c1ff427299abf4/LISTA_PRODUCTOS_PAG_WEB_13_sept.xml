@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<n><![CDATA[1]]></n>
+		<codigo><![CDATA[56078]]></codigo>
+		<producto><![CDATA[SISTEMA DE NIVELACIÓN TORNADO]]></producto>
+		<descripcion><![CDATA[BOLSA 50 UND]]></descripcion>
+		<pesokg><![CDATA[0.55]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $14,460 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[2]]></n>
+		<codigo><![CDATA[52795]]></codigo>
+		<producto><![CDATA[CUÑA PARA PORCELANATO]]></producto>
+		<descripcion><![CDATA[BOLSA 100UND]]></descripcion>
+		<pesokg><![CDATA[0.75]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $6,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[3]]></n>
+		<codigo><![CDATA[52796]]></codigo>
+		<producto><![CDATA[NIVELADOR PARA PORCELANATO 1,5MM]]></producto>
+		<descripcion><![CDATA[BOLSA 100UND]]></descripcion>
+		<pesokg><![CDATA[0.26]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[4]]></n>
+		<codigo><![CDATA[52797]]></codigo>
+		<producto><![CDATA[TENAZA PARA SISTEMA DE NIVELACIÓN ]]></producto>
+		<descripcion><![CDATA[PARA SISTEMAS DE NIVELACIÓN DE CERÁMICA Y PORCELANATO]]></descripcion>
+		<pesokg><![CDATA[0.41]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $11,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[5]]></n>
+		<codigo><![CDATA[50970]]></codigo>
+		<producto><![CDATA[ESPACIADOR 1MM 200 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 200UND ]]></descripcion>
+		<pesokg><![CDATA[0.05]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[6]]></n>
+		<codigo><![CDATA[50972]]></codigo>
+		<producto><![CDATA[ESPACIADOR 2MM 200 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 200UND ]]></descripcion>
+		<pesokg><![CDATA[0.1]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[7]]></n>
+		<codigo><![CDATA[50973]]></codigo>
+		<producto><![CDATA[ESPACIADOR 3MM 200 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 200UND ]]></descripcion>
+		<pesokg><![CDATA[0.1]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[8]]></n>
+		<codigo><![CDATA[50958]]></codigo>
+		<producto><![CDATA[ESPACIADOR 4MM 200 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 200UND ]]></descripcion>
+		<pesokg><![CDATA[0.1]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[9]]></n>
+		<codigo><![CDATA[50976]]></codigo>
+		<producto><![CDATA[ESPACIADOR 5MM 200 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 200UND ]]></descripcion>
+		<pesokg><![CDATA[0.1]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[10]]></n>
+		<codigo><![CDATA[58539]]></codigo>
+		<producto><![CDATA[ESPACIADOR 2MM 1000 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 1000UND]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $7,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[11]]></n>
+		<codigo><![CDATA[58973]]></codigo>
+		<producto><![CDATA[ESPACIADOR 3MM 1000 UND]]></producto>
+		<descripcion><![CDATA[BOLSA 1000UND]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $7,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[12]]></n>
+		<codigo><![CDATA[57911]]></codigo>
+		<producto><![CDATA[SISTEMA DE NIVELACION TOR RAPID]]></producto>
+		<descripcion><![CDATA[BOLSA 50 UND]]></descripcion>
+		<pesokg><![CDATA[0.42]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $12,370 ]]></precionormal>
+		<preciooferta><![CDATA[ $9,990 ]]></preciooferta>
+		<descuento><![CDATA[19%]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[13]]></n>
+		<codigo><![CDATA[50910]]></codigo>
+		<producto><![CDATA[LLANA DENTADA 13X13MM]]></producto>
+		<descripcion><![CDATA[MEDIDA 10X23CM ]]></descripcion>
+		<pesokg><![CDATA[0.2]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[LLANAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[14]]></n>
+		<codigo><![CDATA[60127]]></codigo>
+		<producto><![CDATA[NIVELADOR PARA CERÁMICA 3MM]]></producto>
+		<descripcion><![CDATA[BOLSA 100UND]]></descripcion>
+		<pesokg><![CDATA[0.2]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[15]]></n>
+		<codigo><![CDATA[50909]]></codigo>
+		<producto><![CDATA[LLANA DENTADA 10X6MM]]></producto>
+		<descripcion><![CDATA[MEDIDA 10X23CM ]]></descripcion>
+		<pesokg><![CDATA[0.2]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[LLANAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[16]]></n>
+		<codigo><![CDATA[51124]]></codigo>
+		<producto><![CDATA[LLANA DENTADA 8X8MM]]></producto>
+		<descripcion><![CDATA[MEDIDA 13X28CM]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[LLANAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[17]]></n>
+		<codigo><![CDATA[51125]]></codigo>
+		<producto><![CDATA[LLANA DENTADA 10X10MM]]></producto>
+		<descripcion><![CDATA[MEDIDA 13X28CM]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[LLANAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[18]]></n>
+		<codigo><![CDATA[50906]]></codigo>
+		<producto><![CDATA[FRAGUADOR ESPUMA]]></producto>
+		<descripcion><![CDATA[MEDIDA 24X10CM]]></descripcion>
+		<pesokg><![CDATA[0.15]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,090 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[FRAGUADORES]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[19]]></n>
+		<codigo><![CDATA[50905]]></codigo>
+		<producto><![CDATA[FRAGUADOR PROFESIONAL]]></producto>
+		<descripcion><![CDATA[MEDIDA 23X10CM]]></descripcion>
+		<pesokg><![CDATA[0.3]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[#¡REF!]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[FRAGUADORES]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[20]]></n>
+		<codigo><![CDATA[50989]]></codigo>
+		<producto><![CDATA[REMOVEDOR DE FRAGÜE]]></producto>
+		<descripcion><![CDATA[PARA REMOVER FRAGÜE]]></descripcion>
+		<pesokg><![CDATA[0.15]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[FRAGUADORES]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[21]]></n>
+		<codigo><![CDATA[50907]]></codigo>
+		<producto><![CDATA[ESPONJA PROFESIONAL]]></producto>
+		<descripcion><![CDATA[MEDIDA 19X14CM]]></descripcion>
+		<pesokg><![CDATA[0.5]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPONJAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[22]]></n>
+		<codigo><![CDATA[54577]]></codigo>
+		<producto><![CDATA[ESPONJA MICROFIBRA]]></producto>
+		<descripcion><![CDATA[MEDIDA 19X14CM]]></descripcion>
+		<pesokg><![CDATA[0.5]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPONJAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[23]]></n>
+		<codigo><![CDATA[50969]]></codigo>
+		<producto><![CDATA[ESPONJA TEXTURADA]]></producto>
+		<descripcion><![CDATA[MEDIDA 19X14CM]]></descripcion>
+		<pesokg><![CDATA[0.5]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,460 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPONJAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[24]]></n>
+		<codigo><![CDATA[51014]]></codigo>
+		<producto><![CDATA[BALDE CONCRETERO 12 LITROS]]></producto>
+		<descripcion><![CDATA[12 LITROS]]></descripcion>
+		<pesokg><![CDATA[0.55]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,670 ]]></precionormal>
+		<preciooferta><![CDATA[ $3,490 ]]></preciooferta>
+		<descuento><![CDATA[25%]]></descuento>
+		<categoria><![CDATA[HERRAMIENTAS COMPLEMENTARIAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[25]]></n>
+		<codigo><![CDATA[60128]]></codigo>
+		<producto><![CDATA[CUÑA PARA CERÁMICA]]></producto>
+		<descripcion><![CDATA[BOLSA 100UND]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,290 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESPACIADORES Y SISTEMAS DE NIVELACIÓN PARA CERAMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[26]]></n>
+		<codigo><![CDATA[50987]]></codigo>
+		<producto><![CDATA[RODILLERAS PROFESIONALES ]]></producto>
+		<descripcion><![CDATA[BOLSA 2UND]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $9,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[HERRAMIENTAS COMPLEMENTARIAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[27]]></n>
+		<codigo><![CDATA[51128]]></codigo>
+		<producto><![CDATA[MAZO DE GOMA 12OZ]]></producto>
+		<descripcion><![CDATA[12OZ]]></descripcion>
+		<pesokg><![CDATA[0.36]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[MAZOS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[28]]></n>
+		<codigo><![CDATA[53218]]></codigo>
+		<producto><![CDATA[CORTADORA F500-A 50CM]]></producto>
+		<descripcion><![CDATA[CORTE MAX 50CM]]></descripcion>
+		<pesokg><![CDATA[2.96]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $24,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[29]]></n>
+		<codigo><![CDATA[52545]]></codigo>
+		<producto><![CDATA[CORTADORA TOR 600]]></producto>
+		<descripcion><![CDATA[CORTE MAX 60CM]]></descripcion>
+		<pesokg><![CDATA[5.73]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $56,724 ]]></precionormal>
+		<preciooferta><![CDATA[ $35,990 ]]></preciooferta>
+		<descuento><![CDATA[57%]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[30]]></n>
+		<codigo><![CDATA[56223]]></codigo>
+		<producto><![CDATA[CORTADORA TOR 600SM]]></producto>
+		<descripcion><![CDATA[CORTE MAX 60CM]]></descripcion>
+		<pesokg><![CDATA[5.21]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $59,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[31]]></n>
+		<codigo><![CDATA[56225]]></codigo>
+		<producto><![CDATA[CORTADORA TOR 600CMR]]></producto>
+		<descripcion><![CDATA[CORTE MAX 60CM]]></descripcion>
+		<pesokg><![CDATA[7.67]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $72,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[32]]></n>
+		<codigo><![CDATA[52910]]></codigo>
+		<producto><![CDATA[CORTADORA TOR 1000-A]]></producto>
+		<descripcion><![CDATA[CORTE MAX 100CM - 1METRO]]></descripcion>
+		<pesokg><![CDATA[16]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $129,653 ]]></precionormal>
+		<preciooferta><![CDATA[ $79,990 ]]></preciooferta>
+		<descuento><![CDATA[49%]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[33]]></n>
+		<codigo><![CDATA[60211]]></codigo>
+		<producto><![CDATA[CORTADORA TOR RAPID 1200]]></producto>
+		<descripcion><![CDATA[CORTE MAX 120CM - 1,20 METRO]]></descripcion>
+		<pesokg><![CDATA[20.77]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $299,900 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[34]]></n>
+		<codigo><![CDATA[60210]]></codigo>
+		<producto><![CDATA[CORTADORA TOR RAPID 900]]></producto>
+		<descripcion><![CDATA[CORTE MAX 90CM]]></descripcion>
+		<pesokg><![CDATA[16.76]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $195,960 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[35]]></n>
+		<codigo><![CDATA[60216]]></codigo>
+		<producto><![CDATA[CORTADORA TOR RAPID 620]]></producto>
+		<descripcion><![CDATA[CORTE MAX 62CM]]></descripcion>
+		<pesokg><![CDATA[10.83]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $161,690 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[36]]></n>
+		<codigo><![CDATA[50929]]></codigo>
+		<producto><![CDATA[KIT DE FRAGÜADO]]></producto>
+		<descripcion><![CDATA[ESPONJA DE 17X12CM + FRAGUADOR LENGÜETA]]></descripcion>
+		<pesokg><![CDATA[0.11]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $3,460 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[FRAGUADORES]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[37]]></n>
+		<codigo><![CDATA[51036]]></codigo>
+		<producto><![CDATA[PACK DE LLANAS ]]></producto>
+		<descripcion><![CDATA[CONTIENE LLANA 6X6, 10X6 Y 13X13]]></descripcion>
+		<pesokg><![CDATA[0.45]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $4,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[LLANAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[38]]></n>
+		<codigo><![CDATA[50923]]></codigo>
+		<producto><![CDATA[KIT DEL INSTALADOR ]]></producto>
+		<descripcion><![CDATA[1 CORTADORA DE CERÁMICA 50CM, UNA LLANA 10X6, UNA BOLSA DE ESPACIADORES 3MM DE 100UND Y UN FRAGUADOR LENGÜETA]]></descripcion>
+		<pesokg><![CDATA[2.65]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $25,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[CORTADORAS DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[39]]></n>
+		<codigo><![CDATA[60143]]></codigo>
+		<producto><![CDATA[REGLA DE CONTORNOS 25CM]]></producto>
+		<descripcion><![CDATA[25CM]]></descripcion>
+		<pesokg><![CDATA[0.35]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $7,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[INSTALACIÓN DE CERÁMICA Y PORCELANATO]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[40]]></n>
+		<codigo><![CDATA[51303]]></codigo>
+		<producto><![CDATA[DISCO DIAMANTADO CONTINUO]]></producto>
+		<descripcion><![CDATA[PARA CORTES EN CERÁMICAS Y AZUALEJOS]]></descripcion>
+		<pesokg><![CDATA[0.13]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[DISCOS DE CORTE]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[41]]></n>
+		<codigo><![CDATA[51308]]></codigo>
+		<producto><![CDATA[BANDEJA DE PINTURA]]></producto>
+		<descripcion><![CDATA[34X26CM HASTA RODILLOS DE 23CM]]></descripcion>
+		<pesokg><![CDATA[0.22]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[#¡REF!]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[HERRAMIENTAS COMPLEMENTARIAS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[42]]></n>
+		<codigo><![CDATA[58256]]></codigo>
+		<producto><![CDATA[DISCO DIAMANTADO TORNADO]]></producto>
+		<descripcion><![CDATA[EXTRAFINO, PARA CORTES EN PORCELANATO, CERÁMICA, GRANITO, MARMOL.]]></descripcion>
+		<pesokg><![CDATA[0.13]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $11,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[DISCOS DE CORTE]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[43]]></n>
+		<codigo><![CDATA[60261]]></codigo>
+		<producto><![CDATA[DISCO DIAMANTADO TOR RAPID]]></producto>
+		<descripcion><![CDATA[MULTIPROPÓSITO, CORTE EN METAL, PLÁSTICO, MADERA, PIEDRA, CERÁMICA.]]></descripcion>
+		<pesokg><![CDATA[0.14]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $22,970 ]]></precionormal>
+		<preciooferta><![CDATA[ $17,190 ]]></preciooferta>
+		<descuento><![CDATA[25%]]></descuento>
+		<categoria><![CDATA[DISCOS DE CORTE]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[44]]></n>
+		<codigo><![CDATA[51304]]></codigo>
+		<producto><![CDATA[DISCO DIAMANTADO SEGMENTADO]]></producto>
+		<descripcion><![CDATA[PARA CORTEN EN LADRILLO, PIEDRA, HORMIGON.]]></descripcion>
+		<pesokg><![CDATA[0.13]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[DISCOS DE CORTE]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[45]]></n>
+		<codigo><![CDATA[51305]]></codigo>
+		<producto><![CDATA[DISCO DIAMANTADO TURBO]]></producto>
+		<descripcion><![CDATA[PARA CORTES EN PORCELANATO, CERÁMICA, MARMOL, GRANITO.]]></descripcion>
+		<pesokg><![CDATA[0.13]]></pesokg>
+		<marca><![CDATA[F3C]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,590 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[DISCOS DE CORTE]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[46]]></n>
+		<codigo><![CDATA[51134]]></codigo>
+		<producto><![CDATA[ESQUINERO ALUMINIO TIPO L]]></producto>
+		<descripcion><![CDATA[2,3MTS LARGO]]></descripcion>
+		<pesokg><![CDATA[0.15]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $7,490 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESQUINEROS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[47]]></n>
+		<codigo><![CDATA[52792]]></codigo>
+		<producto><![CDATA[ESQUINERO ALUMINIO 8MM]]></producto>
+		<descripcion><![CDATA[8MM , 2,3MTS LARGO]]></descripcion>
+		<pesokg><![CDATA[0.14]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $5,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESQUINEROS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[48]]></n>
+		<codigo><![CDATA[50966]]></codigo>
+		<producto><![CDATA[ESQUINERO PVC 10MM ALMENDRA]]></producto>
+		<descripcion><![CDATA[10MM, 2,3MTS LARGO]]></descripcion>
+		<pesokg><![CDATA[0.14]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[1799]]></bd>
+		<precionormal><![CDATA[ $2,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESQUINEROS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[49]]></n>
+		<codigo><![CDATA[50988]]></codigo>
+		<producto><![CDATA[ESQUINERO PCV 10MM GRIS]]></producto>
+		<descripcion><![CDATA[10MM, 2,3MTS LARGO]]></descripcion>
+		<pesokg><![CDATA[0.14]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $2,190 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESQUINEROS]]></categoria>
+	</node>
+	<node>
+		<n><![CDATA[50]]></n>
+		<codigo><![CDATA[51005]]></codigo>
+		<producto><![CDATA[ESQUINERO PCV 8MM BLANCO]]></producto>
+		<descripcion><![CDATA[8MM , 2,3MTS LARGO]]></descripcion>
+		<pesokg><![CDATA[0.13]]></pesokg>
+		<marca><![CDATA[TORREWS]]></marca>
+		<bd><![CDATA[#¡REF!]]></bd>
+		<precionormal><![CDATA[ $1,990 ]]></precionormal>
+		<preciooferta><![CDATA[]]></preciooferta>
+		<descuento><![CDATA[]]></descuento>
+		<categoria><![CDATA[ESQUINEROS]]></categoria>
+	</node>
+</data>

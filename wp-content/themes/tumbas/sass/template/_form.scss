@@ -1,0 +1,235 @@
+// btn
+.btn-outline-light{
+  @include button-variant-outline( #FFFFFF, transparent,  #FFFFFF, $brand-primary, #FFFFFF, $brand-primary);
+} 
+.btn-outline{
+	@include button-outline(default, #fff, $theme-color );
+	@include button-outline(primary, $brand-primary, #fff );
+	@include button-outline(success, $brand-success, #FFFFFF );
+	@include button-outline(info, $brand-info, #FFFFFF );
+	@include button-outline(danger, $brand-danger, #FFFFFF );
+	@include button-outline(warning, $brand-warning, #FFFFFF );
+}
+.btn-inverse{
+	@include button-inverse(primary, $brand-primary, #FFFFFF );
+	@include button-inverse(success, $brand-success, #FFFFFF );
+	@include button-inverse(info, $brand-info, #FFFFFF );
+	@include button-inverse(danger, $brand-danger, #FFFFFF );
+	@include button-inverse(warning, $brand-warning, #FFFFFF );
+	@include button-inverse(theme, $theme-color, #FFFFFF );
+}
+.btn.btn-lighten{
+	border-color:#fff;
+	color:#fff;
+	background: transparent;
+	&:hover{
+		color: #fff;
+		background: transparent;
+		border-color:#fff;
+	}
+}
+.btn.btn-white{
+	background: transparent;
+	color: #fff;
+	border-color: #fff;
+	&:hover{
+		color: $theme-color;
+		background: transparent;
+		border-color: $theme-color;
+	}
+}
+.btn-pink{
+	@include button-variant(#fff, #e3a3a2, #e3a3a2);
+}
+.btn-3d{	
+	@include button-3d(lg,0, -5px, rgba(0, 0, 0, 0.15));
+	@include button-3d(empty,0, -5px, rgba(0, 0, 0, 0.15));
+	@include button-3d(sm,0, -4px, rgba(0, 0, 0, 0.15));
+	@include button-3d(xs,0, -2px, rgba(0, 0, 0, 0.15));
+} 
+.btn-shadow{
+	@include button-3d(empty,0, -15px, rgba(0, 0, 0, 0.3),15px,-10px);
+}
+.btn-theme {
+  @include button-variant(#fff, $theme-color, $theme-color);
+  &:hover{
+  	color: #fff;
+  }
+}
+.btn-theme.btn-outline{
+	color: $link-color;
+	border-color: $theme-color;
+	background: #fff;
+	&:hover,&:active{
+		color: #fff;
+		background: $theme-color;
+		border-color: $theme-color;
+	}
+}
+.more-link{
+	color: $theme-color;
+    display: inline-block;
+    font-weight: 700;
+    margin: 10px 0;
+    text-transform: capitalize;
+    &:hover{
+    	text-decoration: none;
+    }
+}
+/* Search
+------------------------------------------------*/
+.search-popup{
+	.dropdown-menu{
+		padding: 10px;
+	}
+}
+
+.btn-action{
+	@include border-radius(4px);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 900;
+    line-height: 30px;
+    margin-bottom: 0;
+    padding: 0px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    @include transition(all 0.4s ease 0s);
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.searchform{
+	.input-search{
+		padding:15px;
+		@include rtl-border-right(0);
+		line-height: 1.5;
+	}
+	.btn-search{
+		vertical-align: top;
+		color: #adafac;
+		padding:12px $padding-xs-horizontal;
+	}
+	.input-group-btn{
+		line-height: 100%;
+	}
+}
+
+// Search categories
+.search-category{
+	.btn{
+		@include rtl-margin-left(10px !important);
+		@include border-radius($border-radius-small !important );
+	}
+	.wpo-search-inner{
+		label.form-control{
+			border:none;
+			border-bottom-right-radius: $border-radius-small;
+	        border-top-right-radius: $border-radius-small;
+		}
+	}
+	select {
+		border:none;
+		text-transform: capitalize;
+		font-weight: 500;
+	}
+}
+
+/* comment form
+------------------------------------------------*/
+.chosen-container{
+	width: 100% !important;
+}
+
+.input-group-form{
+	@include border-radius(3px);
+	background: $input-group-form-bg;
+	margin: $input-group-form-margin;
+	.form-control-reversed{
+		border: 0px;
+		background: $input-form-bg;
+		color: darken($white, 20%);
+	    @include font-size(font-size,14px);
+	    height: 34px;
+	    &:hover,
+	    &:focus{
+	        @include box-shadow(none);
+	    }
+	}
+	.input-group-addon{
+        border: 0;
+        background: $input-form-bg;
+        @include border-left-radius(4px);
+    }
+}
+
+
+
+#review_form{
+	@media (min-width: 992px){
+		padding-top: 90px;
+	}
+	.comment-form{
+		>p{
+			border: 1px solid #bababa;
+			@include border-radius(5px);
+			margin-bottom: 15px;
+			textarea{
+				@include border-radius(5px);
+			}
+			.form-control{
+				height: 45px;
+			}
+			&.comment-form-comment{
+				margin-top: 10px !important;
+			}
+		}
+		label{
+			font-size: 13px;
+			font-weight: 500;
+		}	
+		.list-rating{
+			display: inline-block;
+			@include rtl-margin-left(10px);
+		}
+		input, textarea {
+			padding: 6px 20px;
+			border: none;
+		}
+
+		.form-submit{
+			border: none;
+			input#submit{
+				border: none;
+				font-size: 13px;
+				font-weight: 600;
+				text-transform: uppercase;
+				height: 45px;
+				letter-spacing: 0.7px;
+				font-family: $font-family-sans-serif;
+				width: 185px;
+			}
+		}
+	}
+}
+
+.input-group .form-control{
+	z-index: 0;
+}
+.post-password-form{
+	input{
+		height: 42px;
+		padding:5px 8px;
+		&[type="submit"]{
+			border:none;
+			padding:5px 18px;
+			color: #fff;
+			background: $theme-color;
+			&:hover,&:active{
+				color: #fff;
+				background:darken($theme-color,8%);
+			}
+		}
+	}
+}

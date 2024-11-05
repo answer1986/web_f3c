@@ -1,0 +1,76 @@
+// add font
+@font-face {
+  font-family: 'Montserrat Light';
+  src: url('../fonts/Montserrat-Light.eot'),
+  url('../fonts/Montserrat-Light.woff') format('woff'), 
+  url('../fonts/Montserrat-Light.ttf') format('truetype'), 
+  url('../fonts/Montserrat-Light.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat SemiBold';
+  src: url('../fonts/Montserrat-SemiBold.eot'),
+  url('../fonts/Montserrat-SemiBold.woff') format('woff'), 
+  url('../fonts/Montserrat-SemiBold.ttf') format('truetype'), 
+  url('../fonts/Montserrat-SemiBold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+// Color
+// -------------------------
+$green           : #78ae00 !default;
+$green-dark      : #1cb936 !default;
+$white           : #fff !default;
+$black           : #000 !default;
+$nocolor         : transparent !default;
+$yellow          : #fdff39 !default;
+$yellow-dark     : #f2cb2e !default;
+$red             : #ec5355 !default;
+$red-dark        : #ce4f3e !default;
+$orange          : #e93434 !default;
+$blue            : #177bd1 !default;
+$dark            : #093452 !default;
+$dark-better     : #0c304a !default;
+$dark            : #121B1F !default;
+$cyan            : #01a3d4 !default;
+$turquoise       : #9c619c !default;
+$brown-light	 : #eb5454 !default; //color primary skin fashion (skin default)
+$gray-text       : #999999 !default;
+//Color header cd
+$cd-topbar-bg	 : #3B424C !default;
+
+// Align
+// -------------------------
+$align-center    : center !important;
+$align-left      : left !important;
+$align-right     : right !important;
+
+//Font
+//--------------------------
+$font-family-second 	: 'Amatic SC' !default;
+$font-family-three 	    : 'Amatic SC' !default;  
+$font-weight-base       : 400 !default;
+// Text transform
+// -------------------------
+$text-none       : none !important;
+$text-uppercase  : uppercase !important;
+$text-capitalize : capitalize !important;
+$text-lowercase  : lowercase !important;
+$text-inherit    : inherit !important;
+
+// Theme Margin, Padding
+// -------------------------
+$theme-margin    : 30px !default;
+$theme-padding   : 30px !default;
+// border
+$border-color    : #eeeeee !default;
+
+// Themes colors
+// -------------------------
+$theme-color                     : #ff7519 !default;
+$theme-color-second  			 : #222222 !default;
+$theme-color-default             : $theme-color !default;
+$theme-color-secondary           : #888625 !default;
+$theme-color-third  			 : #111111 !default;
